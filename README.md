@@ -5,7 +5,7 @@ Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
 Apparatus Required:
-
+```
 Sl .no	Apparatus	Range	Type	Quantity
 1	Volt meter	(0-300)V	MC	1
 2	Ammeter	(0-2.5)A	MC	1
@@ -13,6 +13,7 @@ Sl .no	Apparatus	Range	Type	Quantity
 4	Rheostat		Wire wouned	1
 5	Rheostat		Wire wouned	1
 6	Connecting wires	-	-	As required
+```
 
 Fuse rating calculation for field and armature:
 
@@ -53,11 +54,12 @@ Tabulation for Load Test:
 
 Model graph:
 Calculation: 
-
-Open circuit characteristics
-
+Output:
+Open circuit characteristics:
+<img width="669" height="586" alt="Screenshot 2025-12-09 190051" src="https://github.com/user-attachments/assets/56e1f068-3ccf-4ba2-bd1e-4bedf77b7d29" />
   
 Load Characteristics:
+<img width="783" height="627" alt="Screenshot 2025-12-09 190216" src="https://github.com/user-attachments/assets/43c271d1-68cf-4e52-aae9-6d552214e365" />
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
