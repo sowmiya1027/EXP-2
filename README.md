@@ -6,13 +6,13 @@ To conduct load test on separately excited generators and to obtain the characte
 
 Apparatus Required:
 ```
-Sl .no	 Apparatus	        Range	    Type	 Quantity
-1	       Volt meter	       (0-300)V	   MC	     1
-2	       Ammeter	         (0-2.5)A  	 MC	     1
-3	       Ammeter	         (0-5)A	     MC	     1
-4	       Rheostat		       Wire      wouned	   1
-5	       Rheostat		       Wire      wouned	   1
-6     	 Connecting wires	  -	         -	    As required
+Sl .no	 Apparatus	          Range	    Type	  Quantity
+1	       Volt meter	       (0-300)V	   MC	      1
+2	       Ammeter	          (0-2.5)A  	 MC	      1
+3	       Ammeter	          (0-5)A	     MC	      1
+4	       Rheostat		         Wire      wouned	   1
+5	       Rheostat		         Wire      wouned	   1
+6     	 Connecting wires	  -	         -	      As required
 ```
 
 Fuse rating calculation for field and armature:
@@ -52,28 +52,34 @@ Procedure for Load test:
 # Circuit Diagram:
 
 Open circuit characteristics:
+
 ![WhatsApp Image 2025-12-09 at 19 22 00_60c29bbf](https://github.com/user-attachments/assets/1b6d2859-8485-45a5-a862-7554698b88a9)
 
 Load characteristics:
+
 ![WhatsApp Image 2025-12-09 at 19 21 52_90539ee7](https://github.com/user-attachments/assets/48b63a1a-f7a8-4ee2-a584-af31e4cb44ea)
 
 
 # Tabulation and Model Graph:
  Open Circuit Test:
+ 
 ![WhatsApp Image 2025-12-09 at 19 22 02_46fcc26b](https://github.com/user-attachments/assets/5f47b817-ffab-4cdf-8e80-6515f20d5d91)
 
 
  Load Test:
+ 
 ![WhatsApp Image 2025-12-09 at 19 22 01_0b5ad56f](https://github.com/user-attachments/assets/bfb23803-5ebe-4b92-959e-4b9c8e12a213)
 
 
 # Output:
 
 Open circuit characteristics:
+
 <img width="669" height="586" alt="Screenshot 2025-12-09 190051" src="https://github.com/user-attachments/assets/56e1f068-3ccf-4ba2-bd1e-4bedf77b7d29" />
 
   
 Load Characteristics:
+
 <img width="783" height="627" alt="Screenshot 2025-12-09 190216" src="https://github.com/user-attachments/assets/43c271d1-68cf-4e52-aae9-6d552214e365" />
 
 
